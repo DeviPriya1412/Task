@@ -1,0 +1,92 @@
+export const userdata = [
+  {
+    id: "101",
+    name: "devi priya",
+    email: "devi@company.com",
+    place: "AndhraPradesh",
+  },
+  {
+    id: "102",
+    name: "swathika rajasekaran",
+    email: "swathika@company.com",
+    place: "Tamilnadu",
+  },
+  {
+    id: "103",
+    name: "emily anburajan",
+    email: "emily@company.com",
+    place: "Tamilnadu",
+  },
+  {
+    id: "104",
+    name: "arun kumar",
+    email: "arun@company.com",
+    place: "tamilnadu",
+  },
+  {
+    id: "105",
+    name: "Inish raj",
+    email: "Inish@company.com",
+    place: "Tamilnadu",
+  },
+  {
+    id: "106",
+    name: "Aisha Khan",
+    email: "aisha@company.com",
+    place: "Delhi",
+  },
+  {
+    id: "107",
+    name: "Ravi Sharma",
+    email: "ravi@company.com",
+    place: "Maharashtra",
+  },
+  {
+    id: "108",
+    name: "Sita Menon",
+    email: "sita@company.com",
+    place: "Kerala",
+  },
+  {
+    id: "109",
+    name: "Vijay Singh",
+    email: "vijay@company.com",
+    place: "Punjab",
+  },
+  {
+    id: "110",
+    name: "Neha Patel",
+    email: "neha@company.com",
+    place: "Gujarat",
+  },
+  {
+    id: "111",
+    name: "Rohan Gupta",
+    email: "rohan@company.com",
+    place: "Uttar Pradesh",
+  },
+  {
+    id: "112",
+    name: "Anita Sharma",
+    email: "anita@company.com",
+    place: "Rajasthan",
+  },
+  {
+    id: "113",
+    name: "Karthik Reddy",
+    email: "karthik@company.com",
+    place: "Karnataka",
+  },
+  {
+    id: "114",
+    name: "Sunita Rani",
+    email: "sunita@company.com",
+    place: "Bihar",
+  },
+  {
+    id: "115",
+    name: "Arjun Iyer",
+    email: "arjun@company.com",
+    place: "Tamil Nadu",
+  },
+];
